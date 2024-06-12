@@ -1,5 +1,9 @@
 {
-  "name": "F1Scout",
+  "name": "f1scout",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/F1Scout/Bot"
+  },
   "private": true,
   "scripts": {
     "build": "turbo build",

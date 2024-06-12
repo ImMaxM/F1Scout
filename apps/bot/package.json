@@ -1,0 +1,16 @@
+{
+  "name": "bot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "bun --watch ./src/index.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@/eslint-config": "*",
+    "@/ts-config": "*",
+    "typescript": "^5",
+    "@types/node": "^20",
+    "eslint": "^8"
+  }
+}
